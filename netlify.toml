@@ -2,5 +2,6 @@
   publish = "public"
   command = "hugo --gc --minify"
 
-[context.production.environment]
-  HUGO_VERSION = "0.83.1"
+[build.environment]
+  HUGO_VERSION = "0.70.0"
+  HUGO_BASEURL = "/"
