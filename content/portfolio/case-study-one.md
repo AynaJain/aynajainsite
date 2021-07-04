@@ -1,21 +1,23 @@
 ---
-title: Case Study One
-date: 2020-07-13T12:49:27.000+06:00
+title: Cloudgile
+date: 2021-05-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
-service: Development, UX Design
-client: Edward Furlong
-shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-  nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-  voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-  gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet lorem ipsum dolor.
-challenge: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
-solution: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua
-  vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
+service: Design, Development
+Link: https://cloudgile.web.app
+shortDescription: Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
+challenge:  Translating everyone’s desires into implementable action points, while avoiding conflicts, is key. Ensuring that everyone is okay with the finalized implementation plan, before starting development, is also vital. All these reasons warrant the use of inter-tool collaboration for timely and seamless communication during software development.
+solution: Collaborating on software development is hard. That is the reason cloudgile exists.
+Cloudgile is a cloud-based platform that allows developers and managers to
+collaborate in an agile manner. It provides essential tools that already existing
+applications lack such as in-built communication supporting in-app messaging, voice
+chat and video chat along with integration of git that allows automating user’s
+progress along the development of their project.
 
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
 
-Ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- Project Details:
+
+- Collaborated with a team of 4 in an agile manner using Jira with weekly scrum meeting and product backlogs.
+- Used Firebase for authentication and management of a realtime database where all user data is stored in JSON format and synchronized in realtime to every connected user.
+- Used React as a front-end framework to design and display various UI components and to store their local state.
