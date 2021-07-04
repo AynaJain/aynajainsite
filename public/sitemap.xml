@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.ayna.dev/blog/markdown-formatting-demo/</loc>
-    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+    <loc>www.ayna.dev/portfolio/case-study-one/</loc>
+    <lastmod>2021-05-05T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>www.ayna.dev/portfolio/</loc>
+    <lastmod>2021-05-05T12:49:27+06:00</lastmod>
   </url><url>
     <loc>www.ayna.dev/</loc>
+    <lastmod>2021-05-05T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>www.ayna.dev/portfolio/event-app-case-study/</loc>
+    <lastmod>2021-03-12T18:07:16+06:00</lastmod>
+  </url><url>
+    <loc>www.ayna.dev/blog/markdown-formatting-demo/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>www.ayna.dev/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>www.ayna.dev/portfolio/</loc>
-    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
     <loc>www.ayna.dev/portfolio/recipe-app-ux-study/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
@@ -20,16 +26,10 @@
     <loc>www.ayna.dev/portfolio/ux-case-study-for-agriculture-app/</loc>
     <lastmod>2020-08-12T12:13:40+00:00</lastmod>
   </url><url>
-    <loc>www.ayna.dev/portfolio/event-app-case-study/</loc>
-    <lastmod>2020-08-12T18:07:16+06:00</lastmod>
-  </url><url>
     <loc>www.ayna.dev/blog/designer-conference-at-florida-2020/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
   </url><url>
     <loc>www.ayna.dev/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
-    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
-  </url><url>
-    <loc>www.ayna.dev/portfolio/case-study-one/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
     <loc>www.ayna.dev/blog/designers-thoughts-about-mobile-ui/</loc>
