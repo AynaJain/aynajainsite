@@ -16,7 +16,7 @@ progress along the development of their project.
 ---
 Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
 
-- Project Details:
+* Project Details:
 
 - Collaborated with a team of 4 in an agile manner using Jira with weekly scrum meeting and product backlogs.
 - Used Firebase for authentication and management of a realtime database where all user data is stored in JSON format and synchronized in realtime to every connected user.
