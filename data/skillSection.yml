@@ -9,9 +9,15 @@ content: >
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: HTML, CSS
+    percent: 90
+  - title: C++, Java
+    percent: 90
+  - title: Javascript, Python
+    percent: 75
+  - title: Amazon Web Services
+    percent: 65
+  - title: Node.js, React
+    percent: 80
+  - title: MySQL, MongoDB
+    percent: 70
