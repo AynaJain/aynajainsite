@@ -2,6 +2,7 @@
 title: Cloudgile
 date: 2021-05-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
+powerpoint: https://docs.google.com/presentation/d/e/2PACX-1vQPqTiaEHgEeLMrChRiKIooi6tGke7RVa9uB7adjX3dmNgWPdeoe8dvlWTdszx0-oVAzOuJtsvUEwd8/embed?start=false&loop=false&delayms=5000
 service: Design, Development
 # Link: https://cloudgile.web.app
 # shortDescription: Cloudgile is a cloud-based platform that allows developers and managers

@@ -65,7 +65,8 @@
         </div>
         <hr>
         <div class="case-details-thumb mb-5">
-          <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
+          <iframe src="{{ .Params.powerpoint | absURL }}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+          <!-- <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" /> -->
         </div>
         {{ .Content }}
       </div>
