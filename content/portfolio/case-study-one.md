@@ -3,7 +3,7 @@ title: Cloudgile
 date: 2021-05-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: Design, Development
-Link: https://cloudgile.web.app
+# Link: https://cloudgile.web.app
 shortDescription: Cloudgile is a cloud-based platform that allows developers and managers
   to collaborate in an agile manner. magna aliquyam erat, sed diam
   voluptua. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
