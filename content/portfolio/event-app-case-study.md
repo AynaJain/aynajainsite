@@ -15,4 +15,4 @@ challenge:
 solution: 
   COVID-19 Tracker helps people to get their hands on the records very quickly as this app provides reeal-time updates on the number of increasing or decreasing cases along with the number of active cases and number of deaths in particular state of India.
 ---
-###### Project Link: https://github.com/AynaJain/Covid19_Tracker
+##### Project Link: https://github.com/AynaJain/Covid19_Tracker
