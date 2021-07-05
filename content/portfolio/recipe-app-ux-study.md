@@ -19,7 +19,7 @@ solution: By identifying the types of classifications needed and purpose of data
   - How much data is there, and what type of data is it?
   - How much detail is needed? Is storage a limiting factor?
 ---
-##### Project Link: https://github.com/AynaJain/MachineLearning_AirlinePassengerSatisfactionClassification/blob/main/CS412_Final_Project.ipynb
+##### Project Link: https://github.com/AynaJain/ML_APSClassification
 
 ##### Project Report: public/portfolio/cloudgileReport.pdf
 ---
