@@ -4,24 +4,27 @@ date: 2021-05-05T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
 service: Design, Development
 # Link: https://cloudgile.web.app
-shortDescription: Cloudgile is a cloud-based platform that allows developers and managers
-  to collaborate in an agile manner. magna aliquyam erat, sed diam
-  voluptua. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
+# shortDescription: Cloudgile is a cloud-based platform that allows developers and managers
+#   to collaborate in an agile manner. magna aliquyam erat, sed diam
+#   voluptua. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
 challenge: Translating everyone’s desires into implementable action points, 
   while avoiding conflicts, is key. Ensuring that everyone is okay with the 
   finalized implementation plan, before starting development, is also vital. 
   All these reasons warrant the use of inter-tool collaboration for timely and seamless communication during software development.
 solution: Collaborating on software development is hard. That is the reason cloudgile exists.
-  Cloudgile is a cloud-based platform that allows developers and managers to
-  collaborate in an agile manner. It provides essential tools that already existing
-  applications lack such as in-built communication supporting in-app messaging, voice
+  It is a cloud-based platform that allows users to collaborate in an agile manner. It provides essential tools that already existing applications lack such as in-built communication supporting in-app messaging, voice
   chat and video chat along with integration of git that allows automating user’s
   progress along the development of their project.
 ---
 ##### Project Link: https://cloudgile.web.app
 
 ---
-Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project.
+Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project. The project is intended to target developers with varied experiences ranging from new
+developers with very little to no experience, to highly experienced developers. The
+minimalist design and ease of use of the project is intended to get new devs on board
+with agile development. And the integration of all necessary features with modern UI
+elements, a stable platform which is a better alternative to switch to, for the
+experienced developers.
 
 ##### Project Details:
 
