@@ -1,7 +1,7 @@
 ---
 title: Cloudgile
 date: 2021-05-05T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-1.png
+thumbnail: images/portfolio/image2.jpeg
 powerpoint: https://docs.google.com/presentation/d/e/2PACX-1vQPqTiaEHgEeLMrChRiKIooi6tGke7RVa9uB7adjX3dmNgWPdeoe8dvlWTdszx0-oVAzOuJtsvUEwd8/embed?start=false&loop=false&delayms=2000 
 service: Design, Development
 # Link: https://cloudgile.web.app
