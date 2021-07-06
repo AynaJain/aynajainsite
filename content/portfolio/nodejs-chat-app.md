@@ -1,8 +1,8 @@
 ---
 title: NodeJS Chat App
 date: 2021-05-05T12:49:27.000+06:00
-# thumbnail: images/portfolio/image3.jpeg
-powerpoint: images/portfolio/chatApp-Nodejs.png
+thumbnail: images/portfolio/image2.jpeg
+powerpoint: images/portfolio/chat-NodeJS.png
 service: Design, Development
 
 challenge: Translating everyone’s desires into implementable action points, 
