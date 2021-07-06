@@ -25,7 +25,7 @@ solution: By identifying the types of classifications needed and purpose of data
 ##### Project Report: public/portfolio/cloudgileReport.pdf
 ---
 
-###### The factors that are examined in this Machine Learning Classifications models are as follows:
+##### The factors that are examined in this Machine Learning Classifications models are as follows:
 
 - Gender: Gender of the passengers (Female, Male)
 
