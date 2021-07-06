@@ -3,8 +3,8 @@ enable: true
 topTitle: My Skills
 content: >
   ## Why hire me for your next project?
-  
-image: images/skill/skill_image.jpg
+
+image: images/skill/IMG_2019.jpg
 
 skill:
   - title: HTML, CSS
