@@ -57,7 +57,11 @@ This is italic text</description>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
       <guid>www.ayna.dev/portfolio/recipe-app-ux-study/</guid>
-      <description>Project Link: https://github.com/AynaJain/ML_APSClassification Project Report: public/portfolio/cloudgileReport.pdf  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <description>Project Link: https://github.com/AynaJain/ML_APSClassification Project Report: public/portfolio/cloudgileReport.pdf  The factors that are examined in this Machine Learning Classifications models are as follows:   Gender: Gender of the passengers (Female, Male)
+  Customer Type: The customer type (Loyal customer, disloyal customer)
+  Age: The actual age of the passengers
+  Type of Travel: Purpose of the flight of the passengers (Personal Travel, Business Travel)
+  Class: Travel class in the plane of the passengers (Business, Eco, Eco Plus)</description>
     </item>
     
     <item>
