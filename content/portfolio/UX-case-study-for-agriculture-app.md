@@ -1,9 +1,8 @@
 ---
-title: UX Case Study for Agriculture App
+title: JavaFX Chat App
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-4.png
-service: UX Design
-client: Jane Doe
+thumbnail: images/portfolio/image6.png
+powerpoint: images/portfolio/javaFX-chat.png
 # shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 #   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
 #   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
