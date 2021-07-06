@@ -4,6 +4,7 @@ date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
 powerpoint: https://docs.google.com/presentation/d/e/2PACX-1vRWkjx8JlOpuRLKfxoy3VMzbPmNSBSAsdD3tB76dc5kpf3rTxikF_jw5yV8veOGfEvcGsGuugBbfouI/embed?start=false&loop=false&delayms=2000  
 service: Machine Learning, Research, Design, Development 
+link: https://github.com/AynaJain/ML_APSClassification
 # Project Link: https://github.com/AynaJain/MachineLearning_AirlinePassengerSatisfactionClassification/blob/main/CS412_Final_Project.ipynb
 # shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 #   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
