@@ -20,7 +20,7 @@ solution: Collaborating on software development is hard. That is the reason clou
 ---
 ##### Project Link: https://cloudgile.web.app
 
-##### Project Report: public/portfolio/cloudgileReport.pdf
+##### Project Report: [Click Here](https://ayna.dev/portfolio/cloudgileReport.pdf)
 
 ---
 Cloudgile is a cloud-based platform that allows developers and managers to collaborate in an agile manner. It provides essential tools such as in built chat messaging feature that allows automating user’s progress along the development of their project. The project is intended to target developers with varied experiences ranging from new
