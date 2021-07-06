@@ -2,8 +2,9 @@
 title: COVID-19 Tracker App
 date: 2021-03-12T18:07:16.000+06:00
 thumbnail: images/portfolio/portfolio-2.png
+powerpoint: images/portfolio/covid_tracker.png
 service: Design, Development
-link: https://github.com/AynaJain/Covid19_Tracker
+# link: https://github.com/AynaJain/Covid19_Tracker
 # Project Link: https://github.com/AynaJain/Covid19_Tracker
 # shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 #   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
