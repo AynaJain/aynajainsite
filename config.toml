@@ -2,7 +2,7 @@ baseURL = "www.ayna.dev"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Ayna Jain"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -52,7 +52,7 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/favicon.png"
-formspreeURL = "YOUR FORMSPREE URL"
+formspreeURL = "https://formspree.io/f/xdoydvjy"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/favicon.png"
 
