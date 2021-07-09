@@ -22,7 +22,7 @@ solution: By identifying the types of classifications needed and purpose of data
 ---
 ##### Project Link: https://github.com/AynaJain/ML_APSClassification
 
-##### Project Report: public/portfolio/cloudgileReport.pdf
+##### Project Report: [Click Here](https://ayna.dev/portfolio/AirlinePassengerReport.pdf)
 ---
 
 ##### The factors that are examined in this Machine Learning Classifications models are as follows:

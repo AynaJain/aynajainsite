@@ -50,7 +50,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+# copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/favicon.png"
 formspreeURL = "https://formspree.io/f/xdoydvjy"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
@@ -75,11 +75,11 @@ url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/ayna-jain/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+icon = "fa-github-square"
+url = "https://github.com/AynaJain"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
