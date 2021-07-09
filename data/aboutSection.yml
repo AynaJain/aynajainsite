@@ -16,5 +16,5 @@ content: >
 button1Name: View Github Profile
 button2Name: Download CV
 button1Target: https://github.com/AynaJain
-button2Target: https://ayna.dev/data/resume.pdf
+button2Target: https://ayna.dev/portfolio/resume.pdf
 image: images/about/myAboutImage.jpg
